@@ -42,15 +42,14 @@ Objectives
     • Hence due to ease of process as well as reduced cost of implementation we have used Jetson nano for model detection and training.
     • NVIDIA JetPack SDK is the most comprehensive solution for building end-to-end accelerated AI applications. All Jetson modules and developer kits are supported by JetPack SDK.
     • In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
-## Jetson Nano 2gb
 
-## Screenshots
+## Jetson Nano 2gb Developer Kit.
 
-
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
+### Setup
+<img src="https://github.com/rishikeshbondade17/Helmet-Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Helmet-Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Helmet-Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Helmet-Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
 
 
 ## Proposed System
