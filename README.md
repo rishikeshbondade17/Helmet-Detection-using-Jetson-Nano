@@ -167,7 +167,6 @@ sudo python3 detect.py --weights yolov5s.pt  --source 0
 train your model on colab and download the weights and past them into yolov5 folder
 link of project
 
-Insert gif or link to demo
 
 
 ## Running Helmet Detection Model
@@ -178,9 +177,7 @@ source '0' for webcam
 ```
 ## Demo
 
-
 https://user-images.githubusercontent.com/80247111/151315145-fa6d4995-4525-48e2-978b-ef94c0db3bd6.mp4
-
 
 ## Advantages
 
