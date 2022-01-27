@@ -44,7 +44,13 @@ Objectives
     • In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
 ## Jetson Nano 2gb
 
-![Jetson Nano](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Screenshots
+
+
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
 
 
 ## Proposed System
@@ -174,14 +180,6 @@ source '0' for webcam
 
 
 https://user-images.githubusercontent.com/80247111/151315145-fa6d4995-4525-48e2-978b-ef94c0db3bd6.mp4
-
-## Screenshots
-
-
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
 
 
 ## Advantages
